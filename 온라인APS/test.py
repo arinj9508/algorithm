@@ -1,3 +1,6 @@
-result = [13, 13, 13, 13]
-result[0] -= 1
+result = [1,2,3,4]
+
+print(result[-2])
+
+result.pop()
 print(result)
