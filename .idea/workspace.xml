@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4592df84-7758-4e12-9e23-20bcf80b79e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/온라인APS/파스칼의 삼각형.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/온라인APS/test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/온라인APS/이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인APS/이진탐색.py" afterDir="false" />
