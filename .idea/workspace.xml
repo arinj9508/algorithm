@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4592df84-7758-4e12-9e23-20bcf80b79e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/온라인APS/파스칼의 삼각형.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/온라인APS/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/온라인APS/이진탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/온라인APS/이진탐색.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +79,12 @@
     <session id="1296187875">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -191,7 +189,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1915" />
-    <option name="width" value="1082" />
+    <option name="width" value="1155" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -373,7 +371,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.이진탐색">
+  <component name="RunManager" selected="Python.올림픽 종목 투표">
     <configuration name="정곤이의 단조 증가하는 수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="알고리즘" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -653,11 +651,9 @@
       <item itemvalue="Python.숫자카드" />
       <item itemvalue="Python.정곤이의 단조 증가하는 수" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.이진탐색" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.이진탐색" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.숫자카드" />
         <item itemvalue="Python.정곤이의 단조 증가하는 수" />
@@ -687,15 +683,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1915" y="0" width="1082" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="1915" y="0" width="1155" height="1047" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.25766283" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24082364" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31578946" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31578946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40460527" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -998,13 +993,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/온라인APS/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/온라인APS/test.py" />
     <entry file="file://$PROJECT_DIR$/온라인APS/올림픽 종목 투표.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1023,9 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <marker date="1583838654293" expanded="true" signature="24:313" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
