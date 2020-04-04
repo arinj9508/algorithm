@@ -13,7 +13,7 @@ def bfs(S, G):
                 q.append(i)
                 visited[i] = visited[n] + 1
                 if i == G:
-                    result = visited[i] -1
+                    result = visited[i] - 1
                     flag = 1
         if flag:
             break
